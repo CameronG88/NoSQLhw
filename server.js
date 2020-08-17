@@ -17,7 +17,11 @@ app.use(logger("dev"));
 const PORT = process.env.PORT || 3000;
 
 // connect to Mongo Db
-mongoose.connect(process.env.MONGODB_URI || "mongodb://camgram:hello9@ds061611.mlab.com:61611/heroku_jddxd98m", { useNewUrlParser: true });
+mongoose.connect(process.env.MONGODB_URI || "mongodb://camgram:hello9@ds061611.mlab.com:61611/heroku_jddxd98m", {
+    useNewUrlParser: true,
+    useFindAndModify: false,
+    useUnifiedTopology: true
+  });
 
 // import your routes (API and HTML Routes)
 // Requiring our routes

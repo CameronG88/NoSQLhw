@@ -14,13 +14,13 @@ Fitness Tracker
   - [Contribute](#Contribute)
 
   ## Links
-  - (https://camerong88.github.io/EmployeeTracker/)
-  - (https://github.com/CameronG88/EmployeeTracker)
+  - (https://camerong88.github.io/NoSQLhw/)
+  - (https://github.com/CameronG88/NoSQLhw)
 
   ## Screenshots_and _GIFs
 
   ## Usage
-Trackers help people keep info for reference.  Fitness trackers help the same and is an essential tool in weight loss, muscle building, or overall health in general. I know how just useful trackers are.  Spending many years in bodybuilding, I needed to stay on track and keep logs of my progress.  This app is an easy to navigate simple tracker to log workouts whether it's weight training or cardiovascular.  FitTrak will keep you on track!  
+Trackers help people keep info for reference.  Fitness trackers help the same and is an essential tool in weight loss, muscle building, or overall health in general. This app is an easy to navigate simple tracker to log your excercises whether it's weight training or cardio work.
 
 
   ## Installation
