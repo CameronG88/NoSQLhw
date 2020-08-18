@@ -18,7 +18,10 @@ Fitness Tracker
   - (https://github.com/CameronG88/NoSQLhw)
 
   ## Screenshots_and _GIFs
-
+  - [Screenshot of Overview](./public/images/fitoverviewshot.png)
+  - [First GIF](./public/images/fitstart.gif)
+  - [Second GIF](./public/images/fitsecond.gif)
+  - [Third GIF](./public/images/fitthird.gif)
   ## Usage
 Trackers help people keep info for reference.  Fitness trackers help the same and is an essential tool in weight loss, muscle building, or overall health in general. This app is an easy to navigate simple tracker to log your excercises whether it's weight training or cardio work.
 
